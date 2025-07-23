@@ -1,5 +1,5 @@
 ---
-title: "Exploratory data analysis (EDA)"
+title: "Data Discovery with IDEA Approach and jamovi methods"
 author: "Dr. Kam Tin Seong"
 date: "20 July 2025"
 date-modified: "last-modified"
@@ -10,3 +10,15 @@ execute:
   warning: false
 editor: visual
 ---
+
+![](images/img2-1.jpg)
+
+## Learning Outcome
+
+By the end of this session, you will be able to:
+
+- Gain better understanding from massive dataset using Interactive Data Exploration and Analysis (IDEA) approach.
+- Perform interactive data exploration and analysis by using appropriate analysis functions of SAS Visual Analytics.
+- Detect the expected and discover the unexpected patterns from real world data using IDEA approach. 
+
+

@@ -10,7 +10,6 @@ book:
     - intro.qmd
     - part: "Interactive Data Exploration and Analysis (IDEA)"
       chapters: 
-      - chap01.qmd
       - chap02.qmd
     - part: "Frequentist Statistical Analysis"
       chapters:

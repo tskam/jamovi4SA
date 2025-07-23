@@ -418,5 +418,27 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
     ]
+  },
+  {
+    "objectID": "chap02.html",
+    "href": "chap02.html",
+    "title": "2  Data Discovery with IDEA Approach and jamovi methods",
+    "section": "",
+    "text": "2.1 Learning Outcome\nBy the end of this session, you will be able to:",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data Discovery with IDEA Approach and jamovi methods</span>"
+    ]
+  },
+  {
+    "objectID": "chap02.html#learning-outcome",
+    "href": "chap02.html#learning-outcome",
+    "title": "2  Data Discovery with IDEA Approach and jamovi methods",
+    "section": "",
+    "text": "Gain better understanding from massive dataset using Interactive Data Exploration and Analysis (IDEA) approach.\nPerform interactive data exploration and analysis by using appropriate analysis functions of SAS Visual Analytics.\nDetect the expected and discover the unexpected patterns from real world data using IDEA approach.",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data Discovery with IDEA Approach and jamovi methods</span>"
+    ]
   }
 ]
