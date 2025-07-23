@@ -1,0 +1,422 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistical Analytics with jamovi",
+    "section": "",
+    "text": "Welcome\nThis workbook consists of a collection jamovi methods specially designed to support the teaching needs of ISSS602 Data Analytics Lab. Each exercise maps closely to the topic covers in the weekly lesson. Having said that, this workbook can be useful also for others who are interested to find out more about the potential used of jamovi for statistical analytics.\nThis workbook has two unique features. Firstly, all the exercises are developed based on jamovi, a free and open-source computer program for data analysis and performing statistical tests. Secondly, all the use cases and data sets are derived open source data repository.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  My First Date with jamovi",
+    "section": "",
+    "text": "1.1 Introduction\njamovi is a free and user-friendly statistical software that provides a point-and-click interface for R, making it accessible for users with varying levels of statistical experience.\nIn this chapter, you will learn how to download and install jamovi on your personal computer. You will also learn how to:",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Statistical Analytics with jamovi",
+    "section": "License",
+    "text": "License\nThis website is (and will always be) free to use, and is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chap03.html",
+    "href": "chap03.html",
+    "title": "4  One-Sample Test",
+    "section": "",
+    "text": "4.1 Overview",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>One-Sample Test</span>"
+    ]
+  },
+  {
+    "objectID": "chap03.html#one-sample-t-test",
+    "href": "chap03.html#one-sample-t-test",
+    "title": "4  One-Sample Test",
+    "section": "4.2 One-sample t-test",
+    "text": "4.2 One-sample t-test",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>One-Sample Test</span>"
+    ]
+  },
+  {
+    "objectID": "chap03.html#non-parametric-test",
+    "href": "chap03.html#non-parametric-test",
+    "title": "4  One-Sample Test",
+    "section": "4.3 Non-parametric test",
+    "text": "4.3 Non-parametric test",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>One-Sample Test</span>"
+    ]
+  },
+  {
+    "objectID": "chap03.html#robust-t-test",
+    "href": "chap03.html#robust-t-test",
+    "title": "4  One-Sample Test",
+    "section": "4.4 Robust t-test",
+    "text": "4.4 Robust t-test",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>One-Sample Test</span>"
+    ]
+  },
+  {
+    "objectID": "chap03.html#bayesian-one-sample-t-test",
+    "href": "chap03.html#bayesian-one-sample-t-test",
+    "title": "4  One-Sample Test",
+    "section": "4.5 Bayesian One-sample t-test",
+    "text": "4.5 Bayesian One-sample t-test",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>One-Sample Test</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html",
+    "href": "chap04.html",
+    "title": "5  Comparing Between Two Groups",
+    "section": "",
+    "text": "5.1 Overview",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html#two-sample-t-test",
+    "href": "chap04.html#two-sample-t-test",
+    "title": "5  Chapter 4: Comparing Between Two Groups",
+    "section": "5.2 Two-sample t-test",
+    "text": "5.2 Two-sample t-test",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Chapter 4: Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html#non-parametric-method",
+    "href": "chap04.html#non-parametric-method",
+    "title": "5  Comparing Between Two Groups",
+    "section": "5.3 Non-parametric Method",
+    "text": "5.3 Non-parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html#robust-method",
+    "href": "chap04.html#robust-method",
+    "title": "5  Comparing Between Two Groups",
+    "section": "5.4 Robust Method",
+    "text": "5.4 Robust Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html#bayesian-method",
+    "href": "chap04.html#bayesian-method",
+    "title": "5  Comparing Between Two Groups",
+    "section": "5.5 Bayesian Method",
+    "text": "5.5 Bayesian Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap04.html#parametric-method",
+    "href": "chap04.html#parametric-method",
+    "title": "5  Comparing Between Two Groups",
+    "section": "5.2 Parametric Method",
+    "text": "5.2 Parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Comparing Between Two Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap05.html",
+    "href": "chap05.html",
+    "title": "6  Comparing Paired-samples",
+    "section": "",
+    "text": "7 Overview",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Comparing Paired-samples</span>"
+    ]
+  },
+  {
+    "objectID": "chap05.html#parametric-method",
+    "href": "chap05.html#parametric-method",
+    "title": "6  Comparing Paired-samples",
+    "section": "7.1 Parametric Method",
+    "text": "7.1 Parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Comparing Paired-samples</span>"
+    ]
+  },
+  {
+    "objectID": "chap05.html#non-parametric-method",
+    "href": "chap05.html#non-parametric-method",
+    "title": "6  Comparing Paired-samples",
+    "section": "7.2 Non-parametric Method",
+    "text": "7.2 Non-parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Comparing Paired-samples</span>"
+    ]
+  },
+  {
+    "objectID": "chap05.html#robust-method",
+    "href": "chap05.html#robust-method",
+    "title": "6  Comparing Paired-samples",
+    "section": "7.3 Robust Method",
+    "text": "7.3 Robust Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Comparing Paired-samples</span>"
+    ]
+  },
+  {
+    "objectID": "chap05.html#bayesian-method",
+    "href": "chap05.html#bayesian-method",
+    "title": "6  Comparing Paired-samples",
+    "section": "7.4 Bayesian Method",
+    "text": "7.4 Bayesian Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Comparing Paired-samples</span>"
+    ]
+  },
+  {
+    "objectID": "chap06.html",
+    "href": "chap06.html",
+    "title": "7  Comparing Several Groups",
+    "section": "",
+    "text": "8 Overview",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing Several Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap06.html#parametric-method",
+    "href": "chap06.html#parametric-method",
+    "title": "7  Comparing Several Groups",
+    "section": "8.1 Parametric Method",
+    "text": "8.1 Parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing Several Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap06.html#non-parametric-method",
+    "href": "chap06.html#non-parametric-method",
+    "title": "7  Comparing Several Groups",
+    "section": "8.2 Non-parametric Method",
+    "text": "8.2 Non-parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing Several Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap06.html#robust-method",
+    "href": "chap06.html#robust-method",
+    "title": "7  Comparing Several Groups",
+    "section": "8.3 Robust Method",
+    "text": "8.3 Robust Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing Several Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap06.html#bayesian-method",
+    "href": "chap06.html#bayesian-method",
+    "title": "7  Comparing Several Groups",
+    "section": "8.4 Bayesian Method",
+    "text": "8.4 Bayesian Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Comparing Several Groups</span>"
+    ]
+  },
+  {
+    "objectID": "chap07.html",
+    "href": "chap07.html",
+    "title": "8  Association Between Two Categorical Variables",
+    "section": "",
+    "text": "9 Overview",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Association Between Two Categorical Variables</span>"
+    ]
+  },
+  {
+    "objectID": "chap07.html#parametric-method",
+    "href": "chap07.html#parametric-method",
+    "title": "8  Association Between Two Categorical Variables",
+    "section": "9.1 Parametric Method",
+    "text": "9.1 Parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Association Between Two Categorical Variables</span>"
+    ]
+  },
+  {
+    "objectID": "chap07.html#non-parametric-method",
+    "href": "chap07.html#non-parametric-method",
+    "title": "8  Association Between Two Categorical Variables",
+    "section": "9.2 Non-parametric Method",
+    "text": "9.2 Non-parametric Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Association Between Two Categorical Variables</span>"
+    ]
+  },
+  {
+    "objectID": "chap07.html#robust-method",
+    "href": "chap07.html#robust-method",
+    "title": "8  Association Between Two Categorical Variables",
+    "section": "9.3 Robust Method",
+    "text": "9.3 Robust Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Association Between Two Categorical Variables</span>"
+    ]
+  },
+  {
+    "objectID": "chap07.html#bayesian-method",
+    "href": "chap07.html#bayesian-method",
+    "title": "8  Association Between Two Categorical Variables",
+    "section": "9.4 Bayesian Method",
+    "text": "9.4 Bayesian Method",
+    "crumbs": [
+      "Frequentist Statistical Analysis",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Association Between Two Categorical Variables</span>"
+    ]
+  },
+  {
+    "objectID": "chap01.html",
+    "href": "chap01.html",
+    "title": "2  My First Date with jamovi",
+    "section": "",
+    "text": "2.1 Introduction\njamovi is a free and user-friendly statistical software that provides a point-and-click interface for R, making it accessible for users with varying levels of statistical experience.\nIn this chapter, you will learn how to download and install jamovi on your personal computer. You will also learn how to:",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactive Data Exploration</span>"
+    ]
+  },
+  {
+    "objectID": "chap01.html#introduction",
+    "href": "chap01.html#introduction",
+    "title": "2  My First Date with jamovi",
+    "section": "",
+    "text": "import data into jamovi,\nwork with jamovi’s data tableand,\nderive summary statistics, and\nperform tabulation analysis through the ribbon or menu of jamovi.",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactive Data Exploration</span>"
+    ]
+  },
+  {
+    "objectID": "chap01.html#installing-jamovi",
+    "href": "chap01.html#installing-jamovi",
+    "title": "2  My First Date with jamovi",
+    "section": "2.2 Installing jamovi",
+    "text": "2.2 Installing jamovi\n\nTo download jamovi, click on this link.\n\nThe default web browser on your computer will be launched and will be landed at the homepage of jamovi as shown below.\n\n\nOn the webpage, click on jamovi Desktop.\n\nThe download page of jamovi will be opened as shown below.\n\n\nDownload the appropriate version of jamovi for your operating system (Windows, macOS, Linux, or Chromebook) from the download page.\n\n\n\n\n\n\n\nTip\n\n\n\nStudents should download the latest version, for example 2.6.44 according to the figure above.\n\n\n\nWhen the installer is downloaded completely, follow the installation instructions for your specific OS to install jamovi onto your computer. For example,\n\non Windows OS, right click on the installer and select Run as administrator from the context menu,\non macOS, you will drag the application to your Applications folder.\non Linux and Chromebooks, you will likely use flatpak.",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactive Data Exploration</span>"
+    ]
+  },
+  {
+    "objectID": "chap01.html#getting-to-know-jamovi-user-interfaces",
+    "href": "chap01.html#getting-to-know-jamovi-user-interfaces",
+    "title": "2  My First Date with jamovi",
+    "section": "2.3 Getting to Know jamovi User Interfaces",
+    "text": "2.3 Getting to Know jamovi User Interfaces\njamovi’s user interface is structured with a spreadsheet-style data editor, an analyses area, and a ribbon at the top for accessing functions. The spreadsheet allows for data entry and editing, while the analyses section displays results and options. The ribbon provides access to various functions, including file operations, data manipulation, and statistical analyses.\nThis section aims to provide new users of jamovi a high level orientation of these interfaces.\n\nlaunch jamovi.\n\nWhen first starting jamovi, your screen should look similar to the screenshot below.\n\nThe default interfaces of jamovi comprises of four main components. We can see, at the left top corner on the Jamovi page, there are five options namely File tab, Variable ribbon, Data ribbon, Analyses ribbon, and Edit ribbon.\n\n\n2.3.1 File Tab\nSix options are available after clicking on the File tab. They are: New, Open, Import, Save, Save As, and Export.\n\n\nNew option helps you to start work on a new spreadsheet where you can enter your data, can define variables, etc.\nOpen option helps to open or to call different types of existing data files from where the files are stored on your working computer/laptop. These files were opened in jamovi, sometimes. These files may be jamovi (.omv) files, common separate values (.csv) files, EXCEL (.xls) files, SPSS (.sav) files and SAS (.sas) files. To open a file, first, click on the ‘Open’ option and then browse the file from the location where you stored that file. These files are classified into three categories.\n\nNative Data files are files that are created by jamovi itself with the extension .omv. These files are jamovi’s files. It is created after saving the file in jamovi.\nUnformatted Data files are the most commonly used format all over the World for data analysis on any data analysis software. It is commonly known as Comma Separated Value (CSV) files. It has .csv as file extension.\nSpreadsheet files are the files generated by the spreadsheet software such as Microsoft Excel with .xls file extension, SPSS with .sav file extension, SAS with .sas file extension, etc.\n\n\nImport Option is used to import a file into the Jamovi atmosphere. It also helps to import an external data set into the existing open data file. When a file is an import for an existing data set (file), then\nOpen jamovi. You'll see a spreadsheet-like interface on the left and a results panel on the right. \nYou can start entering data directly into the spreadsheet or import existing data. jamovi supports various data formats, including CSV, Excel, and SPSS files. Example datasets are also available within jamovi. To open a file, go to the “File” menu (☰), select “Open,” then “Data library” or “This PC”.\n\nBasic Navigation:\nThe central bar can be dragged to adjust the size of the spreadsheet and results panels.\n\nThe analysis ribbon or menu is at the top of the window. When you select an analysis, an options panel will appear, allowing you to configure the analysis and select variables.\n\nData Analysis:\nTo perform an analysis, select it from the analysis ribbon or menu.\n\nAssign your data variables to the appropriate fields in the analysis options panel. jamovi will display the results in the results panel. You can also use the Rj editor to write and execute R code within jamovi.\n\nExploring Further:\njamovi is actively developed, with new features being added regularly.\n\nThe jamovi documentation is a great resource for learning more about specific features and analyses. There are also tutorials and examples available online, including YouTube videos",
+    "crumbs": [
+      "Interactive Data Exploration and Analysis (IDEA)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactive Data Exploration</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#installing-jamovi",
+    "href": "intro.html#installing-jamovi",
+    "title": "1  My First Date with jamovi",
+    "section": "1.2 Installing jamovi",
+    "text": "1.2 Installing jamovi\n\nTo download jamovi, click on this link.\n\nThe default web browser on your computer will be launched and will be landed at the homepage of jamovi as shown below.\n\n\nOn the webpage, click on jamovi Desktop.\n\nThe download page of jamovi will be opened as shown below.\n\n\nDownload the appropriate version of jamovi for your operating system (Windows, macOS, Linux, or Chromebook) from the download page.\n\n\n\n\n\n\n\nTip\n\n\n\nStudents should download the latest version, for example 2.6.44 according to the figure above.\n\n\n\nWhen the installer is downloaded completely, follow the installation instructions for your specific OS to install jamovi onto your computer. For example,\n\non Windows OS, right click on the installer and select Run as administrator from the context menu,\non macOS, you will drag the application to your Applications folder.\non Linux and Chromebooks, you will likely use flatpak.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#getting-to-know-jamovi-user-interfaces",
+    "href": "intro.html#getting-to-know-jamovi-user-interfaces",
+    "title": "1  My First Date with jamovi",
+    "section": "1.3 Getting to Know jamovi User Interfaces",
+    "text": "1.3 Getting to Know jamovi User Interfaces\njamovi’s user interface is structured with a spreadsheet-style data editor, an analyses area, and a ribbon at the top for accessing functions. The spreadsheet allows for data entry and editing, while the analyses section displays results and options. The ribbon provides access to various functions, including file operations, data manipulation, and statistical analyses.\nThis section aims to provide new users of jamovi a high level orientation of these interfaces.\n\nlaunch jamovi.\n\nWhen first starting jamovi, your screen should look similar to the screenshot below.\n\nOn the left is the spreadsheet view where the data will appear. On the right is where the results of statistical analyses appear.\nLet us take a closer look at the menu bar of jamovi. At the very top level, there are five tabs, namely: File tab, Variable ribbon, Data ribbon, Analyses ribbon, and Edit ribbon.\n\n\n1.3.1 File Tab\nYou can enter data directly into the jamovi spreadsheet, or if you already have the data in another data file format, you can open that file in jamovi. Jamovi supports a wide range of file types, including CSV, XLSX, SPSS, Stata, SAS, and more.\nTo open an existing dataset, click on the three lines in the upper left-hand corner \nThree horizonal lines that indicate the menu button\nSix options are available after clicking on the File tab. They are: New, Open, Special Import, Save, Save As, and Export.\n\n\nNew option helps you to start work on a new spreadsheet where you can enter your data, can define variables, etc.\nOpen option helps to open or to call different types of existing data files from where the files are stored on your working computer/laptop. These files were opened in jamovi, sometimes. These files may be jamovi (.omv) files, common separate values (.csv) files, EXCEL (.xls) files, SPSS (.sav) files and SAS (.sas) files. To open a file, first, click on the ‘Open’ option and then browse the file from the location where you stored that file. These files are classified into three categories.\n\nNative Data files are files that are created by jamovi itself with the extension .omv. These files are jamovi’s files. It is created after saving the file in jamovi.\nUnformatted Data files are the most commonly used format all over the World for data analysis on any data analysis software. It is commonly known as Comma Separated Value (CSV) files. It has .csv as file extension.\nSpreadsheet files are the files generated by the spreadsheet software such as Microsoft Excel with .xls file extension, SPSS with .sav file extension, SAS with .sas file extension, etc.\n\nSpecial Import Option is designed to update or append data to an existing jamovi data set. It is primarily used to import data into an existing data set, adding new data while preserving the existing structure and variable properties. It’s different from the “Open” command, which creates a new data set. When using “Special Import” with a blank data set, the existing columns are retained. However, it’s important to note that using “Special Import” on an existing .omv file might cause the loss of missing values and other variable properties, according to a Jamovi forum post.\n\n\n\n1.3.2 Variables Ribbon\nIn Variables tab, you will see a list of the variables in your data set, including the Name, Description, and a symbol that indicates the variable measure type (nominal, ordinal, continuous, or ID). This view is useful for reviewing all the variables in your dataset and locating a specific variable when you have many of them.\n\nThe top ribbon provides options for editing variable information, computing new variables, transforming existing variables, adding new column, deleting existing column and filtering records.\n\n\n\n1.3.3 Data Ribbon\nWith the Data Tab selected, you will see a spreadsheet view of your data as shown below.\n\nIn Data view:\n\nEach line represents a records, and\nEach column represents a variable (i.e., Gender )\n\nThe top ribbon provides similar options to Variables view: setup variable information, computing new variables, editing variable information, computing new variables, transforming existing variables, adding new column, deleting existing column and filtering records.\n\n\n1.3.4 Analyses Ribbon\nIn Analyses view you will also see the spreadsheet view of your data. However, now the top ribbon options include menus of different groups of statistical analyses.\n\nThe analysis ribbon or menu is at the top of the window.\n\nWhen you select an analysis, an options panel will appear, allowing you to configure the analysis and select variables.\n\nAssign your data variables to the appropriate fields in the analysis options panel. jamovi will display the results in the results panel.\n\n\n\n1.3.5 Edit Ribbon\nThe Edit tab in jamovi primarily allows users to add and modify annotations within the analysis results, enhancing clarity and providing context for the output. It allows users to highlight specific results, add notes, and make other textual edits to the output panel.\n\nSpecifically, the Edit tab provides data analysts the following features:\n\nAdding and editing annotations: Data analysts can add text-based notes and comments to results to explain findings, highlight important points, or provide context for specific analyses.\nFormatting annotations: It allows data analysts to format their annotations with options like bolding, italics, colors, and different font styles.\nHighlighting results: Data analysts can highlight specific results within the output panel to draw attention to key findings or areas of interest.\nChanging the display of results: While the Edit tab doesn’t offer in-depth control over the underlying statistical calculations or the layout of tables and figures, it does allow data analysts to make minor adjustments to the display within the results panel. For example, data analysts can rename headings or add labels to tables.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#introduction",
+    "href": "intro.html#introduction",
+    "title": "1  My First Date with jamovi",
+    "section": "",
+    "text": "import data into jamovi,\nwork with jamovi’s data tableand,\nderive summary statistics, and\nperform tabulation analysis through the ribbon or menu of jamovi.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#whats-next",
+    "href": "intro.html#whats-next",
+    "title": "1  My First Date with jamovi",
+    "section": "1.4 What’s Next?",
+    "text": "1.4 What’s Next?\nThe jamovi documentation is a great resource for learning more about specific features and analyses. There are also tutorials and examples available online, including blogs, YouTube videos and an online book.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My First Date with jamovi</span>"
+    ]
+  }
+]

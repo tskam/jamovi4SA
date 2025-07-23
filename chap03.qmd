@@ -1,0 +1,24 @@
+---
+title: "One-Sample Test"
+author: "Dr. Kam Tin Seong"
+date: "20 July 2025"
+date-modified: "last-modified"
+format: html
+execute:
+  echo: true
+  eval: true
+  warning: false
+editor: visual
+---
+
+## Overview
+
+## One-sample t-test
+
+## Non-parametric test
+
+## Robust t-test
+
+## Bayesian One-sample t-test
+
+

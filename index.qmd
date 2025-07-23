@@ -1,0 +1,9 @@
+# Welcome {.unnumbered}
+
+This workbook consists of a collection jamovi methods specially designed to support the teaching needs of **ISSS602 Data Analytics Lab**. Each exercise maps closely to the topic covers in the weekly lesson. Having said that, this workbook can be useful also for others who are interested to find out more about the potential used of jamovi for statistical analytics.
+
+This workbook has two unique features. Firstly, all the exercises are developed based on [jamovi](https://www.jamovi.org/), a free and open-source computer program for data analysis and performing statistical tests. Secondly, all the use cases and data sets are derived open source data repository.
+
+## License
+
+This website is (and will always be) **free to use**, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
